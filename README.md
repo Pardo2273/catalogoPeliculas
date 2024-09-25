@@ -1,0 +1,3 @@
+El siguiente proyecto trata sobre realizar la toma decisiones con el fin de poder llegar a brindar según la edad una serie de películas que según la edad el usuario puede ver gracias al catálogo de películas
+El reto consistia en desarrollar la interfez de html con sus estilos y hacer uso del switch y if anidados para que segun el rango de edades (en este caso si es menor a 13 años, mayor de 13 y menor de 16 años y mayor de 16 años), si brindase la recomendación
+al ser un ejercicio sencillo trate de brindar imagenes que se añadieran segun correspondiera en el html desde el js, cabe destacar que el empleo de las imagenes de las peliculas es para ejemplificar.
