@@ -1,7 +1,7 @@
 //categorias de edades son de menores de 13, menores de 16 y de 16 o mayores
 let elementoEdad = document.getElementById('edad');
 let recomendacionElemento =  document.getElementById('recomendacion');
-
+//una sola funcion con los if anidados
 function recomendar(genero){
     let edad = Number(elementoEdad.value);
     switch(genero){

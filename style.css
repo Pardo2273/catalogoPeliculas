@@ -31,6 +31,7 @@ input{
     color: aliceblue
 }
 
+/*esta parte es completamente pora lo que se anade a futuro*/
 ul{
     display: flex;
     flex-wrap: wrap; 
